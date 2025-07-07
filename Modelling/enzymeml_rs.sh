@@ -14,7 +14,7 @@
 
 # Run the EnzymeML-RS (Suite) modelling
 enzymeml fit sr1 \
-    -p enzmldoc.json \
+    -p ../EnzymeML_Documents/SLAC_kinetic_assay_concentration.json \
     --log-transform \
     --solver rk4 \
     --dt 1.0
