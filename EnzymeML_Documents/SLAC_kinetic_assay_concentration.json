@@ -5,20 +5,20 @@
   "vessels": [
     {
       "id": "v1",
-      "name": "Eppendorf Tube",
-      "volume": 1000.0,
+      "name": "Microtiter Plate",
+      "volume": 200.0,
       "unit": {
-        "name": "mlitre",
-        "base_units": [
-          {
-            "kind": "litre",
-            "exponent": 1,
-            "scale": -3.0
-          }
-        ]
+          "name": "mlitre",
+          "base_units": [
+              {
+                  "kind": "litre",
+                  "exponent": 1,
+                  "scale": -6.0
+              }
+          ]
       },
       "constant": true
-    }
+  }
   ],
   "proteins": [
     {
@@ -4070,7 +4070,7 @@
       "value": 0.85,
       "initial_value": 0.01,
       "upper_bound": 2.0,
-      "lower_bound": 1e-6,
+      "lower_bound": 1e-4,
       "constant": true
     },
     {
@@ -4080,7 +4080,7 @@
       "value": 80.0,
       "initial_value": 120.0,
       "upper_bound": 150.0,
-      "lower_bound": 1e-6,
+      "lower_bound": 1e-4,
       "constant": true
     },
     {
@@ -4090,7 +4090,7 @@
       "value": 0.001,
       "initial_value": 0.01,
       "upper_bound": 0.05,
-      "lower_bound": 1e-6,
+      "lower_bound": 0.00005,
       "constant": true
     }
   ]
