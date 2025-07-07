@@ -9,8 +9,9 @@ The folder contains the following files:
 - `PyEnzymePySCeSModelling.ipynb`: The notebook to run the PyEnzyme (PySCeS) modelling.
 - `CatalaxModelling.ipynb`: The notebook to run the Catalax (JAX) modelling.
 - `results/`: The folder containing the results of the modelling.
-  - `enzmldoc_sr1trustregion_report.json`: The report of the EnzymeML-RS (Suite) modelling.
-  - `enzmldoc_sr1trustregion.json`: The EnzymeML file containing the results of the EnzymeML-RS (Suite) modelling.
+  - `suite_report.json`: The report of the EnzymeML-RS (Suite) modelling.
+  - `suite_fitted_models.json`: The EnzymeML file containing the results of the EnzymeML-RS (Suite) modelling.
+  - `pysces_fitted_models.json`: The EnzymeML file containing the results of the PyEnzyme (PySCeS) modelling.
   - `pyenzyme_pysces_modelling.png`: The plot of the PyEnzyme (PySCeS) modelling.
   - `catalax_jax_modelling.png`: The plot of the Catalax (JAX) modelling.
 
