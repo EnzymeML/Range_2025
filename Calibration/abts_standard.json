@@ -5,17 +5,11 @@
     "ph": 3.5,
     "temperature": 45.0,
     "temp_unit": {
-        "id": "C",
-        "name": "C",
+        "id": "deg_C",
+        "name": "deg_C",
         "base_units": [
             {
-                "kind": "ampere",
-                "exponent": 1,
-                "multiplier": 1.0,
-                "scale": 0.0
-            },
-            {
-                "kind": "second",
+                "kind": "celsius",
                 "exponent": 1,
                 "multiplier": 1.0,
                 "scale": 0.0
@@ -46,7 +40,7 @@
                 ]
             },
             "signal": 0.0246,
-            "ld_id": "md:Sample/cc09565c-12f8-4469-983b-3ee1639a20a4",
+            "ld_id": "md:Sample/943fbecc-570b-4bef-afb1-d9896b3d702c",
             "ld_type": [
                 "md:Sample"
             ],
@@ -75,7 +69,7 @@
                 ]
             },
             "signal": 0.0262,
-            "ld_id": "md:Sample/2b282ffd-8ee2-40c4-8995-853ca361ad4f",
+            "ld_id": "md:Sample/2a9008a6-fdb2-44b8-8c8a-bea69ababe38",
             "ld_type": [
                 "md:Sample"
             ],
@@ -104,7 +98,7 @@
                 ]
             },
             "signal": 0.0307,
-            "ld_id": "md:Sample/577e82f1-1672-4f32-a7a8-70b276cf10b8",
+            "ld_id": "md:Sample/d52decc2-7633-400b-905a-3ddf4bb90d50",
             "ld_type": [
                 "md:Sample"
             ],
@@ -133,7 +127,7 @@
                 ]
             },
             "signal": 0.1311,
-            "ld_id": "md:Sample/af1e5f04-e41e-4f8d-a427-8f38781b7057",
+            "ld_id": "md:Sample/d7502e48-b8dc-4b0d-92b9-5bf5d5c52630",
             "ld_type": [
                 "md:Sample"
             ],
@@ -162,7 +156,7 @@
                 ]
             },
             "signal": 0.1297,
-            "ld_id": "md:Sample/2fe02e72-15c4-4e83-8d03-10ccfc1c11cb",
+            "ld_id": "md:Sample/06b78423-ba96-4974-95e1-c47b5efe2cc3",
             "ld_type": [
                 "md:Sample"
             ],
@@ -191,7 +185,7 @@
                 ]
             },
             "signal": 0.1318,
-            "ld_id": "md:Sample/3a4c1425-4da9-43b1-82e5-2e375a1936bb",
+            "ld_id": "md:Sample/bc5c3c23-a7c4-46b1-be96-93af1f1906e0",
             "ld_type": [
                 "md:Sample"
             ],
@@ -220,7 +214,7 @@
                 ]
             },
             "signal": 0.238,
-            "ld_id": "md:Sample/3ae5016b-76ae-47ae-9a47-471247793c13",
+            "ld_id": "md:Sample/471a9436-5127-49de-891d-9705459534d8",
             "ld_type": [
                 "md:Sample"
             ],
@@ -249,7 +243,7 @@
                 ]
             },
             "signal": 0.235,
-            "ld_id": "md:Sample/89c65abb-d3c8-4962-951b-81d65d0c0dbb",
+            "ld_id": "md:Sample/66bd6a4d-c42e-4651-b86a-c4e67d7fd5d2",
             "ld_type": [
                 "md:Sample"
             ],
@@ -278,7 +272,7 @@
                 ]
             },
             "signal": 0.2382,
-            "ld_id": "md:Sample/7438ae59-0edd-4457-aadf-3fb9de1813d0",
+            "ld_id": "md:Sample/d61d194c-d526-4d46-b2cc-d1a39e01f6f0",
             "ld_type": [
                 "md:Sample"
             ],
@@ -307,7 +301,7 @@
                 ]
             },
             "signal": 0.3492,
-            "ld_id": "md:Sample/4da1310a-49b1-4970-a54d-690cb8c1655b",
+            "ld_id": "md:Sample/d9ce5030-492c-4367-9766-1e92798fde97",
             "ld_type": [
                 "md:Sample"
             ],
@@ -336,7 +330,7 @@
                 ]
             },
             "signal": 0.3395,
-            "ld_id": "md:Sample/fe23dad7-c337-408a-a64d-0f185152cd59",
+            "ld_id": "md:Sample/38fec0ed-f9a3-40a3-94d0-b538bffedb7c",
             "ld_type": [
                 "md:Sample"
             ],
@@ -365,7 +359,7 @@
                 ]
             },
             "signal": 0.3432,
-            "ld_id": "md:Sample/f19ea1c2-8b9f-45d4-9224-8c682affbb9a",
+            "ld_id": "md:Sample/c591bf56-69bb-47e1-ab7a-d8cfc985417d",
             "ld_type": [
                 "md:Sample"
             ],
@@ -394,7 +388,7 @@
                 ]
             },
             "signal": 0.562,
-            "ld_id": "md:Sample/2d347f14-7014-4ec7-8fa1-8db0e7456ddd",
+            "ld_id": "md:Sample/d67cdc8b-e69c-434b-be8e-91c2631ec5be",
             "ld_type": [
                 "md:Sample"
             ],
@@ -423,7 +417,7 @@
                 ]
             },
             "signal": 0.5468,
-            "ld_id": "md:Sample/0aa4423d-afe9-4817-bc2e-09b22e6ba534",
+            "ld_id": "md:Sample/f9e11bc4-ca69-43d3-9069-1873bc6c44ed",
             "ld_type": [
                 "md:Sample"
             ],
@@ -452,7 +446,7 @@
                 ]
             },
             "signal": 0.5038,
-            "ld_id": "md:Sample/0b90f9c8-ccd9-4893-bba0-43cc92d9869e",
+            "ld_id": "md:Sample/d9b80b82-3a3e-40bd-8c9f-f07a0d9f40cf",
             "ld_type": [
                 "md:Sample"
             ],
@@ -481,7 +475,7 @@
                 ]
             },
             "signal": 1.0887,
-            "ld_id": "md:Sample/cd7beaac-5d4d-4864-8089-6ecd2da50263",
+            "ld_id": "md:Sample/9409803b-f2c2-48bf-9d15-14ddb92489dd",
             "ld_type": [
                 "md:Sample"
             ],
@@ -510,7 +504,7 @@
                 ]
             },
             "signal": 1.0687,
-            "ld_id": "md:Sample/1ac4c738-19ca-4feb-a302-a3f71aedc376",
+            "ld_id": "md:Sample/34b159ad-0011-41e3-a707-107b85c5bb53",
             "ld_type": [
                 "md:Sample"
             ],
@@ -539,7 +533,7 @@
                 ]
             },
             "signal": 1.081,
-            "ld_id": "md:Sample/b48ed448-c969-4000-abfe-6bc38770521b",
+            "ld_id": "md:Sample/6da6647a-afc6-40a0-a9aa-5dc63bb762dc",
             "ld_type": [
                 "md:Sample"
             ],
@@ -568,7 +562,7 @@
                 ]
             },
             "signal": 1.6071,
-            "ld_id": "md:Sample/7c4200cd-ef89-40ff-b87c-94ea98f963b9",
+            "ld_id": "md:Sample/7bcc88e2-94a7-4624-8535-5ea87479d376",
             "ld_type": [
                 "md:Sample"
             ],
@@ -597,7 +591,7 @@
                 ]
             },
             "signal": 1.5828,
-            "ld_id": "md:Sample/5be75ff6-73f3-49cb-a510-c23e642381fb",
+            "ld_id": "md:Sample/ffe17137-2adf-4040-9af8-eb859cb7298f",
             "ld_type": [
                 "md:Sample"
             ],
@@ -626,7 +620,7 @@
                 ]
             },
             "signal": 1.5792,
-            "ld_id": "md:Sample/371f077f-bb7a-49ff-9243-70d5f8822c41",
+            "ld_id": "md:Sample/f2b9e5c9-d4a2-40ac-bc61-16e526b3a714",
             "ld_type": [
                 "md:Sample"
             ],
@@ -655,7 +649,7 @@
                 ]
             },
             "signal": 2.1527,
-            "ld_id": "md:Sample/72bcf78e-6eef-434a-8a6c-d0cb69a1d2d4",
+            "ld_id": "md:Sample/e143ec28-783d-4339-bf36-47b0cb31f7dc",
             "ld_type": [
                 "md:Sample"
             ],
@@ -684,7 +678,7 @@
                 ]
             },
             "signal": 2.1123,
-            "ld_id": "md:Sample/e31e717d-aa5c-49ce-b1f2-5d2105b16479",
+            "ld_id": "md:Sample/3d8ac3cd-82a6-463e-8124-f7f38482d7a3",
             "ld_type": [
                 "md:Sample"
             ],
@@ -713,7 +707,7 @@
                 ]
             },
             "signal": 2.1244,
-            "ld_id": "md:Sample/5e08b61e-81df-42bd-b7f9-c8ad2e59d651",
+            "ld_id": "md:Sample/220a2c92-bf45-4b95-8dd2-901f2a3492d9",
             "ld_type": [
                 "md:Sample"
             ],
@@ -742,7 +736,7 @@
                 ]
             },
             "signal": 2.6354,
-            "ld_id": "md:Sample/246730af-7ae6-4230-bd56-a82264dde162",
+            "ld_id": "md:Sample/df71bf87-ca49-4069-b027-447613e70917",
             "ld_type": [
                 "md:Sample"
             ],
@@ -771,7 +765,7 @@
                 ]
             },
             "signal": 2.6537,
-            "ld_id": "md:Sample/1d4b76e6-6f93-4944-aa6d-e8f14f5364c8",
+            "ld_id": "md:Sample/b417eaf0-0fb8-4bbd-82f6-2203bc6e8080",
             "ld_type": [
                 "md:Sample"
             ],
@@ -800,7 +794,7 @@
                 ]
             },
             "signal": 2.621,
-            "ld_id": "md:Sample/57bd717c-611e-4213-9fb9-788551e7878c",
+            "ld_id": "md:Sample/dfa945a8-8622-45f3-a39d-493958106957",
             "ld_type": [
                 "md:Sample"
             ],
@@ -829,7 +823,7 @@
                 ]
             },
             "signal": 3.1303,
-            "ld_id": "md:Sample/43d51f5f-3ef1-4096-b98b-f82afaf91789",
+            "ld_id": "md:Sample/c32f151a-6ece-42da-8ffe-c032c0d32a7a",
             "ld_type": [
                 "md:Sample"
             ],
@@ -858,7 +852,7 @@
                 ]
             },
             "signal": 3.1084,
-            "ld_id": "md:Sample/e67e1c8d-a977-41cd-83e0-3aa6523ceff7",
+            "ld_id": "md:Sample/4807c03a-0dc3-418a-a654-a7051841a89c",
             "ld_type": [
                 "md:Sample"
             ],
@@ -887,7 +881,7 @@
                 ]
             },
             "signal": 3.0988,
-            "ld_id": "md:Sample/ce764ea7-19ba-4b76-b472-1b6062d21f68",
+            "ld_id": "md:Sample/063c1b61-6a8f-4ef7-872f-e071659ee003",
             "ld_type": [
                 "md:Sample"
             ],
@@ -916,7 +910,7 @@
                 ]
             },
             "signal": 3.4807,
-            "ld_id": "md:Sample/b349948f-c93e-412c-8703-b4a876d96c95",
+            "ld_id": "md:Sample/cc910805-baae-499a-a5b9-5d5c7aece683",
             "ld_type": [
                 "md:Sample"
             ],
@@ -934,10 +928,10 @@
                 "symbol": "b",
                 "value": 0.03890282110908757,
                 "init_value": 1.0,
-                "stderr": 0.009292932114654366,
+                "stderr": 0.009292932114654368,
                 "lower_bound": -1e-6,
                 "upper_bound": 1000000.0,
-                "ld_id": "md:Parameter/0f435383-11d9-4305-addd-36fa9dc9e4e3",
+                "ld_id": "md:Parameter/c54fd427-c65f-46e2-af22-18137cf82dbf",
                 "ld_type": [
                     "md:Parameter"
                 ],
@@ -949,10 +943,10 @@
                 "symbol": "a",
                 "value": 0.020515799648116458,
                 "init_value": 1.0,
-                "stderr": 0.00011419315095953209,
+                "stderr": 0.00011419315095953212,
                 "lower_bound": -1e-6,
                 "upper_bound": 1000000.0,
-                "ld_id": "md:Parameter/5b67f6d0-ee24-4bf5-8462-36cdf1ec44f8",
+                "ld_id": "md:Parameter/076e56fe-c77b-41d8-8c24-4e9bafa23550",
                 "ld_type": [
                     "md:Parameter"
                 ],
@@ -967,7 +961,7 @@
             "conc_upper": 175.0,
             "signal_lower": 0.0246,
             "signal_upper": 3.4807,
-            "ld_id": "md:CalibrationRange/ab215a45-0dbb-44b4-9a0f-8e8ea3680b03",
+            "ld_id": "md:CalibrationRange/c9941e7c-99bd-43a1-809f-ce0419d1b30a",
             "ld_type": [
                 "md:CalibrationRange"
             ],
@@ -980,7 +974,7 @@
             "bic": -201.65351336880744,
             "r2": 0.9990524474885768,
             "rmsd": 0.03462255942541818,
-            "ld_id": "md:FitStatistics/9f145966-56eb-4435-a8ce-a68409a00332",
+            "ld_id": "md:FitStatistics/9c434e5b-974a-4e61-b699-63e2a0a26aad",
             "ld_type": [
                 "md:FitStatistics"
             ],
@@ -988,7 +982,7 @@
                 "md": "https://github.com/FAIRChemistry/CaliPytion"
             }
         },
-        "ld_id": "md:CalibrationModel/0f8cbd41-1311-4e84-810e-051745dbda01",
+        "ld_id": "md:CalibrationModel/003ff49e-df81-4986-8f05-c15345f34b5d",
         "ld_type": [
             "md:CalibrationModel"
         ],
